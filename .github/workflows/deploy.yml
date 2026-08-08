@@ -6,7 +6,7 @@ on:
   workflow_dispatch: {}
 
 env:
-  GODOT_VERSION: "4.4"
+  GODOT_VERSION: "4.4.0"
 
 permissions:
   contents: read
